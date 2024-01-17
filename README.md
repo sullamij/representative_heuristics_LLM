@@ -1,4 +1,4 @@
-##**Examining Representative Heuristics of LLMs**
+## **Examining Representative Heuristics of LLMs**
 The scripts for paper **Examining Representative Heuristics of LLMs**. 
 
 1. `query.py` : code for querying LLMs via API (e.g. openai, gemini)
@@ -14,7 +14,7 @@ The scripts for paper **Examining Representative Heuristics of LLMs**.
 
 4. `utils.py`: stores functions for preprocessing data, and analysis
 
-####**Data**
+#### **Data**
 Store the following data under the `Data` directory. 
 - Anes: Please refer to https://electionstudies.org/data-center/anes-time-series-cumulative-data-file/ 
 - MFQ_Survey_Data
