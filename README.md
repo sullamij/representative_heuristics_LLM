@@ -1,6 +1,6 @@
 ## **Examining Representative Heuristics of LLMs**
 The scripts for paper **Examining Alignment of Large Language Models through Representative Heuristics, ICLR 2025**.  
-![alt text](images/anes_updated.pdf)
+![alt text](images/anes_updated.png)
 
 📃 **Paper**: https://arxiv.org/abs/2501.14294     
 💻 **Code Description**    
