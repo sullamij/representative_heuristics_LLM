@@ -1,5 +1,7 @@
 ## **Examining Representative Heuristics of LLMs**
-The scripts for paper **Examining Alignment of Large Language Models through Representative Heuristics, ICLR 2025**. 
+The scripts for paper **Examining Alignment of Large Language Models through Representative Heuristics, ICLR 2025**.     
+📃 **Paper**: https://arxiv.org/abs/2501.14294     
+💻 **Code Description**    
 
 1. `query.py` : code for querying LLMs via API (e.g. openai, gemini)
     - `query_open_llms`: query code for open LLMs e.g. Llama2-70b 
